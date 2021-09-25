@@ -1,7 +1,7 @@
 <img src="img/icon.png" width="512">
 
-# ShowPassword
-This browser extension lets you show the password in the password entry fields.
+# TogglePassword
+This browser extension lets you show & hide the password in the password entry fields.
 
 ## Why our extension?
 - Open-Source.
