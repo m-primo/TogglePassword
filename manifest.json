@@ -1,0 +1,27 @@
+{
+    "manifest_version": 2,
+    "name": "TogglePassword",
+    "version": "1.0.0",
+    "description": "This browser extension lets you show & hide the password in the password entry fields.",
+    "icons": {
+        "16": "img/icon.png",
+        "48": "img/icon.png",
+        "128": "img/icon.png"
+    },
+    "browser_action": {
+        "default_icon": "img/icon.png",
+        "default_popup": "popup.html",
+        "icons": ["img/icon.png"]
+    },
+    "content_scripts": [
+        {
+          "matches": ["<all_urls>"],
+          "css": ["css/background.css"],
+          "js": ["js/jquery.min.js", "js/background.js"],
+          "run_at": "document_end"
+        }
+    ],
+    "permissions": [
+        "<all_urls>"
+    ]
+}
