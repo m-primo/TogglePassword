@@ -17,7 +17,8 @@ This browser extension allows you to show & hide passwords in any password entry
 
 ## Screenshots
 
-![screenshot](screenshots/v2/test.png)
+![screenshot v2.0](screenshots/v2/test.png)
+![screenshot v2.1](screenshots/v2/2.1.png)
 
 ## Contributing
 
