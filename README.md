@@ -2,7 +2,7 @@
 
 ![icon](img/icon.png)
 
-This browser extension allows you to show & hide passwords in any password entry field, using the context menu.
+This browser extension allows you to show & hide passwords in any password entry field, and generate passwords, using the context menu.
 
 ## Why TogglePassword?
 
